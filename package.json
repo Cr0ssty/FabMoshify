@@ -15,12 +15,4 @@
   }
 }
 
-In this updated package.json:
-
-    We've added a "start" script that you can use to run your development server using Parcel.
-    We've also added a "build" script that you can use to build your project for production.
-
-Please replace "index.html" with the actual entry point of your project. If you have a different entry point, make sure to specify it in the "start" and "build" scripts accordingly.
-
-After updating your package.json with these scripts, you can run npm run build to build your project using Parcel. This should resolve the issue you encountered during the Netlify build process.
 
